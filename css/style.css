@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=PT+Sans&family=Roboto+Condensed:ital@1&display=swap');
+.navbar-brand {
+ font-size: 18px;
+
+ font-weight: 400;
+
+}
+.nav-link, .dropdown-item {
+font-family: 'Roboto Condensed', sans-serif;
+ font-size: 15px;
+ font-weight: 600;s
+ text-transform: uppercase;
+
+}
+nav li {
+ padding: 0 18px;
+ font-family: 'PT Sans', sans-serif;
+
+}
+nav li.active, nav li.active:before {
+ background-color: rgba(0, 0, 0, 0.15);
+ border-radius: 5px;
+background-color:rgb(136, 176, 165);
+}
+.carousel a:hover {
+ background: rgba(255, 255, 255, 0.2);
+ font-family: 'PT Sans', sans-serif;
+}
+header,footer {
+  background-color: #343a40;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+main {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.treuoio {
+  font-family: 'PT Sans', sans-serif;
+}
